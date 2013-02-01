@@ -1,0 +1,10 @@
+"VertexLitGeneric"
+{
+"$baseTexture" "models/th89/Blue_Shark/shark_skin"
+"$envmap" "env_cubemap"
+"$envmapmask" "models/th89/Blue_Shark/shark_skin_mask"
+"$envmapcontrast" "1.0"
+"$envmapsaturation" "0.5"
+"$envmaptint" "[ 0.3 0.3 0.3 ]"
+"$halflambert" 1
+}

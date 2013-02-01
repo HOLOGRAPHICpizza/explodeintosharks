@@ -1,0 +1,10 @@
+"AddonInfo"
+{
+	"name"			"Explode into sharks!"
+	"version"		"1.1"
+	"up_date"		"1/31/13"
+	"author_name"	"HOLOGRAPHICpizza, TH89, SilverRaptor"
+	"author_email"	"mcraft@peak15.org"
+	"author_url"	""
+	"info"			"Makes things explode into sharks!"
+}
