@@ -7,3 +7,5 @@ I was immediately intrigued by the mental images evoked by his mispronunciation,
 Permission was received from the creator of the shark model to redistribute it with this addon.
 
 The code is released under the MIT License.
+
+This addon is released on the Garry's Mod Workshop at: http://steamcommunity.com/sharedfiles/filedetails/?id=124240298
